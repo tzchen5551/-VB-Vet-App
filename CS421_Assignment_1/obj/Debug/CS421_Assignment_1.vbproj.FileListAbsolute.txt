@@ -1,0 +1,11 @@
+C:\Users\terry\source\repos\CS421_Assignment_1\CS421_Assignment_1\bin\Debug\CS421_Assignment_1.exe.config
+C:\Users\terry\source\repos\CS421_Assignment_1\CS421_Assignment_1\bin\Debug\CS421_Assignment_1.exe
+C:\Users\terry\source\repos\CS421_Assignment_1\CS421_Assignment_1\bin\Debug\CS421_Assignment_1.pdb
+C:\Users\terry\source\repos\CS421_Assignment_1\CS421_Assignment_1\bin\Debug\CS421_Assignment_1.xml
+C:\Users\terry\source\repos\CS421_Assignment_1\CS421_Assignment_1\obj\Debug\CS421_Assignment_1.vbprojAssemblyReference.cache
+C:\Users\terry\source\repos\CS421_Assignment_1\CS421_Assignment_1\obj\Debug\CS421_Assignment_1.frmDataEntryScreen.resources
+C:\Users\terry\source\repos\CS421_Assignment_1\CS421_Assignment_1\obj\Debug\CS421_Assignment_1.Resources.resources
+C:\Users\terry\source\repos\CS421_Assignment_1\CS421_Assignment_1\obj\Debug\CS421_Assignment_1.vbproj.GenerateResource.cache
+C:\Users\terry\source\repos\CS421_Assignment_1\CS421_Assignment_1\obj\Debug\CS421_Assignment_1.exe
+C:\Users\terry\source\repos\CS421_Assignment_1\CS421_Assignment_1\obj\Debug\CS421_Assignment_1.xml
+C:\Users\terry\source\repos\CS421_Assignment_1\CS421_Assignment_1\obj\Debug\CS421_Assignment_1.pdb
